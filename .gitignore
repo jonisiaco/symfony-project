@@ -50,3 +50,9 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+#mysql system files
+/mysql-data/
+
+# Mac file system
+.DS_Store
